@@ -1,8 +1,5 @@
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const MNEMONIC = "finish wing sand denial animal void attack alley winner benefit disorder garment";
-const projectId = "c14b781ee06b4a75adca37d8e0e8ca58";
-
 
 module.exports = {
   
